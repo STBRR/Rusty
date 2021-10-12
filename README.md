@@ -90,20 +90,27 @@
 8. Swipe card and loot! or head up to the blue door and swipe! - LOOT!
 
 ### CLI Arguments
-server.identity = Basically local world folder name?
-server.hostname = This is what people see in menu
-server.description = ...a description...
-server.url = website or discord link 
+```
+-server.identity            # Basically local world folder name?
+-server.hostname            # This is what people see in menu
+-server.description         # ...a description...
+-server.url                 # website or discord link
+```
 
 ### Useful Commands
 #### Get Oxide Version
-> oxide.version
-
+```
+oxide.version
+```
 #### Show Plugins
-> oxide.plugins
+```
+oxide.plugins
+```
 
 #### Reload Plugin
-> oxide.reload <resource_name>
+```
+oxide.reload [plugin]
+```
 
 ### GatherMate Configuration
 > https://www.gameserverkings.com/knowledge-base/rust/modify-gather-rate/
