@@ -1,0 +1,121 @@
+{
+  "_players": {
+    "76561198062391562": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633968900.872457
+        },
+        "Resource Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633969480.736429
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199147192793": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1633970213.5099158
+        },
+        "Resource Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1633971288.645849
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199048733806": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633969478.949168
+        },
+        "Resource Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1633976803.1485569
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198082381812": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1633970546.2874219
+        },
+        "Resource Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1633975922.6087189
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199095534443": {
+      "_usageData": {
+        "Starter Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1633984787.7526128
+        },
+        "Resource Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1633985691.804117
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198880344099": {
+      "_usageData": {
+        "Resource Kit": {
+          "TotalUses": 4,
+          "NextUseTime": 1633984053.8703759
+        },
+        "Starter Kit": {
+          "TotalUses": 3,
+          "NextUseTime": 1633977215.9527769
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198204435312": {
+      "_usageData": {
+        "Resource Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633971989.060257
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633972473.3874168
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561199007784160": {
+      "_usageData": {
+        "Resource Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633971773.73714
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633972182.8670778
+        }
+      },
+      "ClaimAutoKits": true
+    },
+    "76561198220117611": {
+      "_usageData": {
+        "Resource Kit": {
+          "TotalUses": 2,
+          "NextUseTime": 1633976628.094363
+        },
+        "Starter Kit": {
+          "TotalUses": 1,
+          "NextUseTime": 1633975277.7389009
+        }
+      },
+      "ClaimAutoKits": true
+    }
+  }
+}

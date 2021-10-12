@@ -1,0 +1,49 @@
+{
+  "clans": {
+    "1337": {
+      "Tag": "1337",
+      "Description": "",
+      "OwnerID": "76561199147192793",
+      "CreationTime": 1632213845.0,
+      "LastOnlineTime": 1632315529.0,
+      "ClanMembers": {
+        "76561199147192793": {
+          "Name": "JustRasta",
+          "Role": 0
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    },
+    "123": {
+      "Tag": "123",
+      "Description": "",
+      "OwnerID": "76561199048733806",
+      "CreationTime": 1632236129.0,
+      "LastOnlineTime": 1632316626.0,
+      "ClanMembers": {
+        "76561199048733806": {
+          "Name": "!10k",
+          "Role": 0
+        },
+        "76561198880344099": {
+          "Name": "Reacey",
+          "Role": 2
+        },
+        "76561198082381812": {
+          "Name": "HasBulla",
+          "Role": 2
+        }
+      },
+      "MemberInvites": {},
+      "Alliances": [],
+      "AllianceInvites": {},
+      "IncomingAlliances": [],
+      "TagColor": ""
+    }
+  },
+  "playerInvites": {}
+}
