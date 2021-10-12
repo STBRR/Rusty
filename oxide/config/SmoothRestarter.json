@@ -1,0 +1,37 @@
+{
+  "Daily restarts": [
+    "21:00"
+  ],
+  "Restart when new Oxide.Rust is out": false,
+  "Initiate countdown at": 300,
+  "Enable UI": true,
+  "UI position (X,Y)": "0.92, 0.92",
+  "UI scale": 1.0,
+  "Enable console logs": true,
+  "Commands": [
+    "sr",
+    "srestart",
+    "smoothrestart",
+    "smoothrestarter"
+  ],
+  "Disable chat countdown notifications": false,
+  "Custom countdown reference points": [
+    60,
+    50,
+    40,
+    30,
+    25,
+    15,
+    10,
+    9,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "Use custom countdown reference points": false
+}

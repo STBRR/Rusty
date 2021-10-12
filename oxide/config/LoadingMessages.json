@@ -1,0 +1,32 @@
+{
+  "Text Display Frequency (Seconds)": 0.1,
+  "Enable Messages Cyclicity": false,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 15.0,
+  "Messages": [
+    {
+      "Top Status": "Welcome to <color=#060833>Ignite</color>",
+      "Bottom Status": "<color=#add8e6>Purchase VIP @ https://ignite.tebex.io</color>"
+    },
+    {
+      "Top Status": "Join the <color=#060833>Discord</color> Today!",
+      "Bottom Status": "<color=#add8e6>https://discord.link/Ignite</color>"
+    }
+  ],
+  "Enable Queue Messages": false,
+  "Queue Messages": [
+    {
+      "Top Status": "<color=##ffff00>You're in queue...</color>",
+      "Bottom Status": "<color=#add8e6>{AHEAD} players ahead of you.</color>"
+    },
+    {
+      "Top Status": "<color=#add8e6>You're in queue...</color>",
+      "Bottom Status": "<color=#ffff00>{BEHIND} players behind you.</color>"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<color=#ffff00>Welcome to Ignite!</color>",
+    "Bottom Status": "<color=#008000>Loading into the world...</color>"
+  }
+}

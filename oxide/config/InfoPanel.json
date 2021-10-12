@@ -1,0 +1,127 @@
+{
+  "Server Name": {
+    "Title": "<b>[EU] Ignite</b>",
+    "Enable display?": true,
+    "Offset Min": "43 -21",
+    "Offset Max": "183 -5"
+  },
+  "Panel display type (Overlay or Hud)": "Hud",
+  "Panel color (background)": "#A7A7A725",
+  "Panel color (close)": "#FF00003B",
+  "Command to hide the panel": "panel",
+  "Setting the MENU button": {
+    "Title": "/MENU",
+    "Commnd": "menu",
+    "Enable display?": false,
+    "Offset Min": "5 -55",
+    "Offset Max": "40 -43"
+  },
+  "Settings Players": {
+    "Image URL": "https://i.imgur.com/MUkpWFA.png",
+    "Enable display?": true,
+    "Offset Min": "138 -40",
+    "Offset Max": "183 -24"
+  },
+  "Settings Time": {
+    "Image URL": "https://i.imgur.com/c5AW7sO.png",
+    "Enable display?": true,
+    "Offset Min": "186 -21",
+    "Offset Max": "234 -5"
+  },
+  "Settings Sleepers": {
+    "Image URL": "https://i.imgur.com/UvLItA7.png",
+    "Enable display?": true,
+    "Offset Min": "186 -40",
+    "Offset Max": "234 -24"
+  },
+  "Settings Сoordinates": {
+    "Image URL": "https://i.imgur.com/VicmD9Q.png",
+    "Enable display?": true,
+    "Offset Min": "237 -21",
+    "Offset Max": "347 -5"
+  },
+  "Settings Logotype": {
+    "Command [EXAMPLE] chat command: chat.say /store  OR  console command: kill": "chat.say /store",
+    "Image URL": "https://i.imgur.com/eu5Ml3c.jpg",
+    "Enable display?": true,
+    "Offset Min": "5 -40",
+    "Offset Max": "40 -5"
+  },
+  "Settings Economy": {
+    "Hook": "Balance",
+    "Plugin Name": "Economics",
+    "Image URL": "https://i.imgur.com/K4dCGkQ.png",
+    "Enable display?": false,
+    "Offset Min": "237 -40",
+    "Offset Max": "297 -24"
+  },
+  "Settings Events": {
+    "Bradley": {
+      "Active Color": "#0CF204FF",
+      "Deactive Color": "#FFFFFFFF",
+      "Image URL": "https://i.imgur.com/6Vtl3NG.png",
+      "Enable display?": true,
+      "Offset Min": "100 -40",
+      "Offset Max": "116 -24"
+    },
+    "Helicopter": {
+      "Active Color": "#0CF204FF",
+      "Deactive Color": "#FFFFFFFF",
+      "Image URL": "https://i.imgur.com/Y0rVkt8.png",
+      "Enable display?": true,
+      "Offset Min": "43 -40",
+      "Offset Max": "59 -24"
+    },
+    "Cargoplane": {
+      "Active Color": "#0CF204FF",
+      "Deactive Color": "#FFFFFFFF",
+      "Image URL": "https://i.imgur.com/GcQKlg2.png",
+      "Enable display?": true,
+      "Offset Min": "62 -40",
+      "Offset Max": "78 -24"
+    },
+    "Cargoship": {
+      "Active Color": "#0CF204FF",
+      "Deactive Color": "#FFFFFFFF",
+      "Image URL": "https://i.imgur.com/3jigtJS.png",
+      "Enable display?": true,
+      "Offset Min": "81 -40",
+      "Offset Max": "97 -24"
+    },
+    "CH47": {
+      "Active Color": "#0CF204FF",
+      "Deactive Color": "#FFFFFFFF",
+      "Image URL": "https://i.imgur.com/6U5ww9g.png",
+      "Enable display?": true,
+      "Offset Min": "119 -40",
+      "Offset Max": "135 -24"
+    }
+  },
+  "Menu Buttons": {
+    "Screen edge offset": -58.0,
+    "Width": 130.0,
+    "Height": 20.0,
+    "Margin": 3.0,
+    "Close Button": {
+      "Offset Min": "43 -55",
+      "Offset Max": "53 -43"
+    },
+    "Settings Buttons": [
+      {
+        "Image URL": "https://i.imgur.com/WeHYCni.png",
+        "Command": "chat.say /store",
+        "Title": "SHOP"
+      },
+      {
+        "Image URL": "https://i.imgur.com/buPPBW9.png",
+        "Command": "chat.say /menu",
+        "Title": "MENU"
+      },
+      {
+        "Image URL": "https://i.imgur.com/oFhPHky.png",
+        "Command": "chat.say /map",
+        "Title": "MAP"
+      }
+    ]
+  }
+}

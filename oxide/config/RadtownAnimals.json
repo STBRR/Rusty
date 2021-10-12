@@ -1,0 +1,280 @@
+{
+  "Settings": {
+    "Animal respawn timer (seconds)": 300,
+    "Spawn spread distance from center of monument": 100.0,
+    "Maximum amount of animals to spawn": 40
+  },
+  "Zone Settings": {
+    "Airfield": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 3,
+        "Boars": 2,
+        "Chickens": 1,
+        "Horses": 0,
+        "Murderers": 5,
+        "Scientists": 10,
+        "Stags": 2,
+        "Wolfs": 2,
+        "Zombies": 2
+      }
+    },
+    "Dome": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 2,
+        "Boars": 2,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 3,
+        "Scientists": 5,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Junkyard": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 2,
+        "Scientists": 2,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Lighthouse": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 1,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 1
+      }
+    },
+    "LargeHarbor": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 10,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "GasStation": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 3,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Powerplant": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 10,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Stone Quarry": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 2,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Sulfur Quarry": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "HQM Quarry": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Radtown": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "RocketFactory": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Satellite": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 3,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 2,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "SmallHarbor": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 2,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Supermarket": {
+      "Enable spawning at this monument": true,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 2,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Trainyard": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Tunnels": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "Warehouse": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    },
+    "WaterTreatment": {
+      "Enable spawning at this monument": false,
+      "Amount of animals to spawn at this monument": {
+        "Bears": 0,
+        "Boars": 0,
+        "Chickens": 0,
+        "Horses": 0,
+        "Murderers": 0,
+        "Scientists": 0,
+        "Stags": 0,
+        "Wolfs": 0,
+        "Zombies": 0
+      }
+    }
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 83
+  }
+}
