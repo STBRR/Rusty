@@ -1,0 +1,6 @@
+{
+  "nullList": "<color=#939393>Error getting a list of monuments</color>",
+  "title": "<color=orange>Radtown Animals:</color> ",
+  "killedAll": "<color=#939393>Killed all animals</color>",
+  "spawnLimit": "The animal spawn limit has been hit."
+}

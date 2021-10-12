@@ -1,0 +1,6 @@
+{
+  "WelcomeMessage": "Welcome to Ignite\r\nThere're currently {0} players online",
+  "JoinMessage": "{0} has joined the server from {1}",
+  "JoinMessageUnknown": "{0} has joined the server",
+  "LeaveMessage": "Player {0} has left the server. Reason {1}"
+}
