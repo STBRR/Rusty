@@ -1,3 +1,13 @@
 oxide/logs/*
 oxide/lang/ru/*
 oxide/lang/zh-CN/*
+Bundles/*
+Bundles/
+*.debug
+*.so
+runds.sh
+steamapps/
+steamapps/*
+RustDedicated
+RustDedicated_Data/
+RustDedicated_Data/*
