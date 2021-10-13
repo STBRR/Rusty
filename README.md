@@ -1,6 +1,20 @@
 # Ignite
 #####  A Rust Project
 
+### Vanilla Mode
+These plugins should be within the `deactivated_plugins/` directory when wanting to run Vanilla.
+Simply copy these back into `plugins/` to run modded again. (Usually this is X2)
+```
+BetterLoot.cs
+CraftingController.cs
+Duelist.cs
+GatherManager.cs
+GroupLimits.cs
+Kits.cs
+QuickSmelt.cs
+StackSizeController.cs
+```
+
 ### CLI Arguments
 ```
 -server.identity            # Basically local world folder name?
