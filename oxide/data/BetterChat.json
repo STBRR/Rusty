@@ -49,7 +49,7 @@
     "GroupName": "supporter",
     "Priority": 0,
     "Title": {
-      "Text": "Supporter ",
+      "Text": "Supporter",
       "Color": "#0fa5ff",
       "Size": 15,
       "Hidden": false,
@@ -72,7 +72,7 @@
     "GroupName": "vip",
     "Priority": 0,
     "Title": {
-      "Text": "VIP ",
+      "Text": "VIP",
       "Color": "#00ffff",
       "Size": 15,
       "Hidden": false,
@@ -95,7 +95,7 @@
     "GroupName": "vip+",
     "Priority": 0,
     "Title": {
-      "Text": "VIP+ ",
+      "Text": "VIP+",
       "Color": "#ffc400",
       "Size": 15,
       "Hidden": false,
