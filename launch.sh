@@ -20,14 +20,14 @@ do
 
     echo "[!] Starting RustDedicated Server"
     ./RustDedicated -batchmode -nographics \
-    -server.hostname "[EU] Ignite | Vanilla | Solo/Duo/Trio | Small Map | Weekly Wipe" \
-    -server.identity "VanillaWorld" \
-    -server.description "An Upcoming Rust Community!\nWe strive on providing a friendly non-toxic environment for both new and seasoned Rust players!\n\nWeekly Wipes every Thursday at 9am GMT\nMax Team Size of: 3 (Trio's)\nFriendly & Active Admin\n\nDiscord: https://discord.link/Ignite\nVIP can be purchased at: https://ignite.tebex.io" \
+    -server.hostname "[EU] Ignite | 2X | Solo/Duo/Trio |  Weekly Wipe" \
+    -server.identity "2XWorld" \
+    -server.description "An Upcoming Rust Community!\nWe strive on providing a friendly non-toxic environment for both new and seasoned Rust players!\n\nWeekly Wipes every Wednesday\nMax Team Size of: 3\nFriendly & Active Admin\n\nDiscord: https://discord.link/Ignite\nVIP can be purchased at: https://ignite.tebex.io" \
     -server.url "https://discord.link/Ignite" \
     -server.maxplayers 128 \
     -server.tags "weekly" \
-    -server.worldsize 2000 \
-    -server.seed 730 \
+    -server.worldsize 2900 \
+    -server.seed 155151 \
     -rcon.port 28016 \
     -rcon.password "stabberlol123" \
     -rcon.web 1 \
