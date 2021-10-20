@@ -1,6 +1,6 @@
 {
   "Daily restarts": [
-    "21:00"
+    "20:00"
   ],
   "Restart when new Oxide.Rust is out": false,
   "Initiate countdown at": 300,
