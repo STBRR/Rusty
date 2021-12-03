@@ -22,14 +22,14 @@ do
     ./RustDedicated -batchmode -nographics \
     -server.hostname "[EU] Ignite | 2X | Solo/Duo/Trio |  Weekly Wipe" \
     -server.identity "2XWorld" \
-    -server.description "An Upcoming Rust Community!\nWe strive on providing a friendly non-toxic environment for both new and seasoned Rust players!\n\nWeekly Wipes every Wednesday\nMax Team Size of: 3\nFriendly & Active Admin\n\nDiscord: https://discord.link/Ignite\nVIP can be purchased at: https://ignite.tebex.io" \
-    -server.url "https://discord.link/Ignite" \
+    -server.description "" \
+    -server.url "" \
     -server.maxplayers 128 \
     -server.tags "weekly" \
     -server.worldsize 2900 \
     -server.seed 155151 \
     -rcon.port 28016 \
-    -rcon.password "stabberlol123" \
+    -rcon.password "you_might_want_to_change_this" \
     -rcon.web 1 \
     -spawn.min_rate 2.5 \
     -spawn.max_rate 2.5 \
