@@ -1,9 +1,9 @@
-# Ignite
-#####  A Rust Project
+# Rusty
+#####  A Rust/Oxide Project
 
 ### Vanilla Mode
 These plugins should be within the `deactivated_plugins/` directory when wanting to run Vanilla.
-Simply copy these back into `plugins/` to run modded again. (Usually this is X2)
+Simply copy these back into `plugins/` to run **modded** again. (Usually this is X2 - _Based on the GatherRate_)
 ```
 BetterLoot.cs
 CraftingController.cs
@@ -13,14 +13,6 @@ GroupLimits.cs
 Kits.cs
 QuickSmelt.cs
 StackSizeController.cs
-```
-
-### CLI Arguments
-```
--server.identity            # Basically local world folder name?
--server.hostname            # This is what people see in menu
--server.description         # ...a description...
--server.url                 # website or discord link
 ```
 
 ### Useful Commands
@@ -49,5 +41,3 @@ dispenser.scale tree 2
 dispenser.scale ore 2
 dispenser.scale corpse 2
 ```
-
-
