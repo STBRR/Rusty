@@ -20,7 +20,7 @@ do
 
     echo "[!] Starting RustDedicated Server"
     ./RustDedicated -batchmode -nographics \
-    -server.hostname "[EU] Ignite | 2X | Solo/Duo/Trio |  Weekly Wipe" \
+    -server.hostname "[EU] Rusty Build" \
     -server.identity "2XWorld" \
     -server.description "" \
     -server.url "" \
